@@ -1,0 +1,2 @@
+# Alpaca-Not-Alpaca-classifier-Transfer-Learning-MobileNetV2-
+I'll be use transfer learning on a pre-trained CNN (MobileNet) to build an Alpaca/Not Alpaca classifier!   A pre-trained model is a network that's already been trained on a large dataset and saved, which allows to use it to customize our own model cheaply and efficiently. The one I'll be using, MobileNetV2, which was designed to provide fast and computationally efficient performance. It's been pre-trained on ImageNet, a dataset containing over 14 million images and 1000 classes.
